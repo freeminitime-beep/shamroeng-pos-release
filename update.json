@@ -1,8 +1,8 @@
 {
   "version": "1.6.1",
   "url": "https://github.com/freeminitime-beep/shamroeng-pos-release/releases/download/v1.6.1/POS-Samroeng-1.6.1.exe",
-  "sha256": "15F035E99E346950CFCA8614273CE6F2CB6C0C12828BA6D9C01C37C39B039F62",
-  "sizeBytes": 189040929,
+  "sha256": "48EDBB88D04C2745618019A635195C3293B003E20CE6FCCE3F9DF009102C78C0",
+  "sizeBytes": 84228684,
   "notes": "แก้หน้าสมาชิก: ดูรายการสินค้าในบิลย้อนหลังได้แล้ว (เดิมส่วนนี้ถูกตัดหายไปเพราะฟอร์มสมาชิกกินพื้นที่จนล้นจอ)",
   "releasedAt": "2569-09-08"
 }
