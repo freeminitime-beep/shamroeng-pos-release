@@ -1,8 +1,8 @@
 {
-  "version": "1.6.0",
-  "url": "https://github.com/freeminitime-beep/shamroeng-pos-release/releases/download/v1.6.0/POS-Samroeng-1.6.0.exe",
-  "sha256": "DFA28DAF6D91290626698D805FCB3D6B4951F2613627EEB672673F94D12FCFFB",
+  "version": "1.6.1",
+  "url": "https://github.com/freeminitime-beep/shamroeng-pos-release/releases/download/v1.6.1/POS-Samroeng-1.6.1.exe",
+  "sha256": "15F035E99E346950CFCA8614273CE6F2CB6C0C12828BA6D9C01C37C39B039F62",
   "sizeBytes": 189040929,
-  "notes": "ปุ่มอัปเดตในตัว + แก้บั๊กใส่จุดทศนิยมไม่ได้ + ปรับแต้มสะสมตามกติกาใหม่",
+  "notes": "แก้หน้าสมาชิก: ดูรายการสินค้าในบิลย้อนหลังได้แล้ว (เดิมส่วนนี้ถูกตัดหายไปเพราะฟอร์มสมาชิกกินพื้นที่จนล้นจอ)",
   "releasedAt": "2569-09-08"
 }
