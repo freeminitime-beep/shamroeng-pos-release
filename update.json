@@ -1,0 +1,8 @@
+{
+  "version": "1.6.0",
+  "url": "https://github.com/freeminitime-beep/shamroeng-pos-release/releases/download/v1.6.0/POS-Samroeng-1.6.0.exe",
+  "sha256": "DFA28DAF6D91290626698D805FCB3D6B4951F2613627EEB672673F94D12FCFFB",
+  "sizeBytes": 189040929,
+  "notes": "ปุ่มอัปเดตในตัว + แก้บั๊กใส่จุดทศนิยมไม่ได้ + ปรับแต้มสะสมตามกติกาใหม่",
+  "releasedAt": "2569-09-08"
+}
