@@ -1,8 +1,8 @@
 {
-  "version": "1.6.1",
-  "url": "https://github.com/freeminitime-beep/shamroeng-pos-release/releases/download/v1.6.1/POS-Samroeng-1.6.1.exe",
-  "sha256": "48EDBB88D04C2745618019A635195C3293B003E20CE6FCCE3F9DF009102C78C0",
-  "sizeBytes": 84228684,
-  "notes": "แก้หน้าสมาชิก: ดูรายการสินค้าในบิลย้อนหลังได้แล้ว (เดิมส่วนนี้ถูกตัดหายไปเพราะฟอร์มสมาชิกกินพื้นที่จนล้นจอ)",
-  "releasedAt": "2569-09-08"
+  "version": "1.7.0",
+  "url": "https://github.com/freeminitime-beep/shamroeng-pos-release/releases/download/v1.7.0/POS-Samroeng-1.7.0.exe",
+  "sha256": "1C5A7820767066ED0C1B69B78AA7714271C8BBBABC408B2FD029151720D4EEE8",
+  "sizeBytes": 84308862,
+  "notes": "เพิ่มหน่วยขายหลายหน่วย (ยกลัง/ยกม้วน/กิโล) และราคาหลายชั้น (ราคาช่าง/พิเศษ) · ระบบลูกหนี้ขายเชื่อพร้อมรับชำระบางส่วน · ใบเสนอราคา · ตรวจนับสต็อกทั้งร้าน · ใบกำกับภาษี · หน้าตั้งค่าข้อมูลร้าน · สำรองฐานข้อมูลอัตโนมัติก่อนอัปเกรดและกู้คืนเองถ้าอัปเกรดล้มเหลว",
+  "releasedAt": "2569-09-09"
 }
