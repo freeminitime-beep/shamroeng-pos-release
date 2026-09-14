@@ -1,8 +1,8 @@
 {
-    "version":  "1.7.9",
-    "url":  "https://github.com/freeminitime-beep/shamroeng-pos-release/releases/download/v1.7.9/POS-Samroeng-1.7.9.exe",
-    "sha256":  "AAC59CF3922BAFC7877EBEB0CA4ED20E3F126E1B8C2F95D593AD0B75BF323B12",
-    "sizeBytes":  84323274,
-    "notes":  "เปลี่ยนไอคอนโปรแกรมเป็นรูปต้นกล้าแบบเดียวกับที่แสดงบนหน้าเข้าสู่ระบบ · หน้าเข้าสู่ระบบบอกเลขเวอร์ชันที่ใช้อยู่แล้ว ดูได้ตั้งแต่ก่อนล็อกอิน ไม่ต้องเข้าไปดูที่หน้าตั้งค่า",
-    "releasedAt":  "2569-09-13"
+    "version":  "1.8.0",
+    "url":  "https://github.com/freeminitime-beep/shamroeng-pos-release/releases/download/v1.8.0/POS-Samroeng-1.8.0.exe",
+    "sha256":  "79AE55644989A748CBAD8E46E42FB54DEDE5E15507A14AAA596E8A56D7EAB127",
+    "sizeBytes":  89351636,
+    "notes":  "เพิ่มระบบใช้งานผ่านมือถือในวง Wi-Fi ร้าน (เปิดจากหน้าตั้งค่า ใส่รหัส 6 หลัก): ถ่ายรูปสินค้า สแกนบาร์โค้ด ขายด่วน แก้ไขสินค้าและสต็อก ตั้งคะแนนต่อหมวดหมู่ และพักบิลจากมือถือให้หน้าร้านเรียกกลับมาขายต่อได้ พร้อมคอลัมน์หมายเหตุในหน้าบิลที่พักไว้",
+    "releasedAt":  "2569-09-14"
 }
